@@ -1,0 +1,7 @@
+<RCC>
+  <qresource prefix="images">
+    <file>images/nixicon.png</file>
+    <file>images/nixurl.png</file>
+    <file>images/filenew.png</file>
+  </qresource>
+</RCC>

@@ -1,0 +1,19 @@
+Metadata-Version: 1.0
+Name: NixURL
+Version: 1.0
+Summary: Desktop client for URL shorten services
+Home-page: http://sourceforge.net/projects/nixurl/
+Author: Arjun Jain
+Author-email: arjunjain08@gmail.com
+License: UNKNOWN
+Download-URL: https://sourceforge.net/projects/nixurl/files/
+Description: UNKNOWN
+Platform: Linux
+Classifier: Development Status :: 5 - Production/Stable
+Classifier: Intended Audience :: Developers
+Classifier: License :: GNU
+Classifier: Operating System :: OS Independent
+Classifier: Programming Language :: Python
+Classifier: Programming Language :: Python :: 2.6
+Classifier: Programming Language :: Python :: 2.7
+Classifier: Programming Language :: PyQt :: 4.6

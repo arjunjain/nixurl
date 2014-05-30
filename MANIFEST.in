@@ -1,0 +1,12 @@
+include INSTALL
+include LICENSE
+include Makefile
+include MANIFEST.in
+include PKG-INFO
+include README
+include nixurl
+include NixURL.desktop
+recursive-include NixURL *
+recursive-include NixURL/exlib *
+recursive-include NixURL/ui *
+recursive-include NixURL/uipy *

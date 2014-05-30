@@ -1,0 +1,9 @@
+[Desktop Entry]
+Type=Application
+Encoding=UTF-8
+Name=NixURL
+Comment=Desktop client for URL shorten services
+Icon=nixiconsvg.svg
+Exec=nixurl
+Terminal=false
+Categories=Network;
